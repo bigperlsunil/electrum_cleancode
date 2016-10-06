@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="sjb" default="all" basedir=".">
+    <typedef resource="org/tigris/subversion/svnant/svnantlib.xml" />
+    <target name="all">
+    </target>
+    <target name="update">
+        <svn username="yanovikov" password="fhbcnjrhfn">
+            <checkout url="https://office.smartjobboard.com/svn/smartjobboard/tags/sjb-4.2/" destpath="/home/bamboo/www/sjb/"></checkout>
+        </svn>
+
+        <copy overwrite="true" tofile="/home/bamboo/www/sjb/.htaccess" file="/home/bamboo/www/sjb/.htaccess_" />
+        <copy overwrite="true" tofile="/home/bamboo/www/sjb/admin/.htaccess" file="/home/bamboo/www/sjb/admin/.htaccess_" />
+ 
+        <delete file="/home/bamboo/www/sjb/install.php" />
+    </target>
+</project>

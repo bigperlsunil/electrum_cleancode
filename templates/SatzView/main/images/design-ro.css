@@ -1,0 +1,39 @@
+/* START:Roman Language
+*********************************************************************************/
+.jqTransformSelectWrapper div span {
+	width: 86% !important;
+}
+input.searchIntegerLess,
+input.searchIntegerMore {
+	width: 132px !important;
+}
+#activation_date_notless,
+#activation_date_notmore,
+#date_notless,
+#date_notmore {
+	width: 110px !important;
+}
+.after-quick-links ul li {
+	padding: 6px 3px;
+}
+.after-quick-links ul li a {
+	font-size: 13px;
+}
+.userInfo .compProfileTitle {
+	font-size: 15px;
+}
+#Location_ZipCode .inputField {
+	font-size: 12px;
+}
+input#Location_ZipCode {
+	width: 70px !important;
+}
+#applicationFilter .jqTransformSelectWrapper,
+#applicationFilter .jqTransformSelectWrapper ul {
+	width: 159px !important;
+}
+#Salary_list,
+#DesiredSalary_list {
+	width: 120px;
+}
+/********************************************************************************/

@@ -1,0 +1,22 @@
+/* START:Hindi Language
+*********************************************************************************/
+#top-menu ul li a {
+	font-size: 14px;
+	padding: 26px 15px;
+}
+#top-menu #dropDown ul li a {
+	padding: 10px 0 10px 10px;
+}
+.slider-right-buts a {
+	font-size: 12px !important;
+}
+.topResultsLinks ul li a {
+	padding: 1px 0 0 20px;
+}
+.after-quick-links ul li a {
+	font-size: 13px;
+}
+select {
+	font-size: 12px !important;
+}
+/********************************************************************************/

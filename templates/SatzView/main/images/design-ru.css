@@ -1,0 +1,89 @@
+/* START:Russian Language
+*********************************************************************************/
+.index-div {
+	font-size: 13px;
+}
+#top-menu ul li a {
+	font-size: 13px;
+	padding: 26px 15px;
+}
+#top-menu #dropDown ul li a {
+	padding: 10px 0 10px 10px;
+}
+.topResultsLinks ul li a {
+	font-size: 15px;
+}
+.topResultsLinks ul li {
+	padding: 15px 4px 15px 0;
+}
+.numberResults .sorting,
+#sort-by,
+.listings_per_page_form p,
+#listings_per_page_form p {
+	font-size: 13px;
+}
+.search-only {
+	font-size: 9px;
+}
+.after-quick-links ul li {
+	padding: 10px 4px;
+}
+#sort-by .jqTransformSelectWrapper,
+#sort-by .jqTransformSelectWrapper ul {
+	width: 145px !important;
+}
+.results-paging .topNavBar {
+	padding: 15px 10px;
+}
+.topResultsLinks ul li a {
+	background-position: 0 -1px;
+}
+#sort-by .jqTransformSelectWrapper ul a {
+	font-size: 11px;
+}
+.keywords-option-resume .jqTransformSelectWrapper span,
+.keywords-option-resume .jqTransformSelectWrapper a {
+	font-size: 12px;
+}
+.qs-main .keywords-option-resume .jqTransformSelectWrapper span,
+.qs-main .keywords-option-resume .jqTransformSelectWrapper a {
+	font-size: 13px;
+}
+input#Location_ZipCode {
+	width: 105px !important;
+}
+.app-tracking,
+.app-tracking input {
+	font-size: 12px;
+}
+.app-tracking input {
+	padding: 0 5px;
+}
+.qs-main h1 {
+	font-size: 17px;
+	padding: 25px 0 0 0;
+}
+.slider-left h1 {
+	font-size: 24px;
+}
+.slider-left ul li {
+	font-size: 14px;
+}
+.poll-view-results {
+	font-size: 9px;
+}
+.footer-column ul li a,
+#main-content-page-footer-bottom a,
+#main-content-page-footer-bottom {
+	font-size: 13px;
+}
+.results-paging .numberResults .sorting,
+.results-paging #sort-by,
+.results-paging .listings_per_page_form p,
+.results-paging #listings_per_page_form p {
+	font-size: 11px;
+}
+.count-listings {
+	font-size: 13px;
+}
+/********************************************************************************/

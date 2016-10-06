@@ -1,0 +1,21 @@
+/* START:Netherlands Language
+*********************************************************************************/
+#top-menu ul li a {
+	font-size: 14px;
+	padding: 28px 14px 28px 10px;
+}
+.topResultsLinks ul li {
+	padding: 15px 0;
+}
+.after-quick-links ul li {
+	display: inline-block;
+	padding: 10px;
+}
+.after-quick-links ul li a {
+	font-size: 13px;
+}
+#applicationFilter .jqTransformSelectWrapper,
+#applicationFilter .jqTransformSelectWrapper ul {
+	width: 206px !important;
+}
+/********************************************************************************/

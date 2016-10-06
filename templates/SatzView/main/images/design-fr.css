@@ -1,0 +1,45 @@
+/* START:French Language
+*********************************************************************************/
+#top-menu ul li a {
+	font-size: 13px;
+	padding: 26px 13px 26px 10px;
+}
+.results-paging h1 {
+	font-size: 15px;
+	padding: 2px 0;
+}
+#googleMap-links a {
+	font-size: 11px;
+	margin: 0;
+}
+#top-menu #dropDown ul li a {
+	padding: 10px 0 10px 10px;
+}
+.userInfo .compProfileTitle {
+	font-size: 13px;
+}
+.jqTransformSelectWrapper div span {
+	width: 86% !important;
+}
+.search-only {
+	font-size: 9px;
+}
+.after-quick-links ul li {
+	padding: 12px 7px;
+}
+.after-quick-links ul li a {
+	font-size: 13px;
+}
+#sort-by .jqTransformSelectWrapper ul a {
+	font-size: 11px;
+}
+#Location_ZipCode .inputField{
+	font-size: 13px;
+}
+input#Location_ZipCode {
+	width: 60px !important;
+}
+.application-form input[type="submit"] {
+	font-size: 12px;
+}
+/********************************************************************************/

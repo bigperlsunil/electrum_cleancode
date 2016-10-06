@@ -1,0 +1,51 @@
+/* START:Polski Language
+*********************************************************************************/
+#top-menu ul li a {
+	font-size: 12px;
+	padding: 28px 12px;
+}
+.js-emp-menu span a {
+	font-size: 14px;
+}
+#top-menu #dropDown ul li a {
+	padding: 10px 0 10px 10px;
+}
+.topResultsLinks ul li {
+	padding: 15px 3px 15px 0;
+}
+.topResultsLinks ul li a {
+	font-size: 13px;
+	background-position: 0 -2px;
+}
+.userInfo .compProfileTitle {
+	font-size: 15px;
+}
+input.searchIntegerLess,
+input.searchIntegerMore {
+	width: 147px !important;
+}
+.after-quick-links ul li a {
+	font-size: 12px;
+}
+.after-quick-links ul li {
+	padding: 10px 4px;
+}
+.keywords-option-resume .jqTransformSelectWrapper span,
+.keywords-option-resume .jqTransformSelectWrapper a {
+	font-size: 12px;
+}
+.qs-main .keywords-option-resume .jqTransformSelectWrapper span,
+.qs-main .keywords-option-resume .jqTransformSelectWrapper a {
+	font-size: 13px;
+}
+input#Location_ZipCode {
+	width: 100px !important;
+}
+.search-only span {
+	font-size: 8px;
+}
+#applicationFilter .jqTransformSelectWrapper,
+#applicationFilter .jqTransformSelectWrapper ul {
+	width: 190px !important;
+}
+/********************************************************************************/

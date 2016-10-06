@@ -1,0 +1,4 @@
+[23-Sep-2016 13:05:41 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 258723840 bytes) in /home/electrum/public_html/system/lib/miscellaneous/Backup.php on line 115
+[23-Sep-2016 13:05:41 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 258723840 bytes) in /home/electrum/public_html/system/lib/miscellaneous/Backup.php on line 115
+[23-Sep-2016 13:05:42 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 258723840 bytes) in /home/electrum/public_html/system/lib/miscellaneous/Backup.php on line 115
+[23-Sep-2016 13:05:42 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 258723840 bytes) in /home/electrum/public_html/system/lib/miscellaneous/Backup.php on line 115

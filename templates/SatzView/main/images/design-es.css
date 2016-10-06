@@ -1,0 +1,29 @@
+/* START:Spanish Language
+*********************************************************************************/
+#top-menu ul li a {
+	font-size: 14px;
+	padding: 28px 14px 28px 10px;
+}
+#top-menu #dropDown ul li a {
+	padding: 10px 0 10px 8px;
+}
+.results-paging .topNavBar {
+	font-size: 12px;
+}
+.numberResults p {
+	margin: 5px 0 5px -5px;
+}
+#sort-by .jqTransformSelectWrapper ul a {
+	font-size: 11px;
+}
+#Location_ZipCode .inputField {
+	font-size: 10px;
+}
+input#Location_ZipCode {
+	width: 60px !important;
+}
+#applicationFilter .jqTransformSelectWrapper,
+#applicationFilter .jqTransformSelectWrapper ul {
+	width: 185px !important;
+}
+/********************************************************************************/

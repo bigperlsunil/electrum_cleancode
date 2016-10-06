@@ -1,0 +1,36 @@
+/* START:Deutsch Language
+*********************************************************************************/
+#top-menu ul li a {
+	font-size: 12px;
+	padding: 28px 14px 28px 10px;
+}
+#top-menu #dropDown ul li a {
+	padding: 10px 0 10px 8px;
+}
+.poll-view-results {
+	font-size: 12px;
+}
+.topResultsLinks ul li {
+	padding: 15px 0;
+}
+.topResultsLinks ul li a {
+	font-size: 14px;
+}
+.after-quick-links ul li {
+	padding: 12px 1px;
+}
+.after-quick-links ul li a {
+	font-size: 12px;
+}
+.js-emp-menu span a {
+	font-size: 13px;
+	padding: 25px 4px 25px 8px;
+}
+#applicationFilter .jqTransformSelectWrapper,
+#applicationFilter .jqTransformSelectWrapper ul {
+	width: 170px !important;
+}
+.count-listings {
+	font-size: 12px
+}
+/********************************************************************************/

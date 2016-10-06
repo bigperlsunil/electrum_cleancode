@@ -1,0 +1,42 @@
+/* START:Portuguese Language
+*********************************************************************************/
+#top-menu ul li a {
+	font-size: 13px;
+	padding: 27px 11px 27px 10px;
+}
+.results-paging h1 {
+	font-size: 16px;
+}
+#googleMap-links a {
+	font-size: 11px;
+	margin: 0;
+}
+#top-menu #dropDown ul li a {
+	padding: 10px 0 10px 10px;
+}
+.numberResults .sorting,
+#sort-by,
+.listings_per_page_form p,
+#listings_per_page_form p {
+	font-size: 12px;
+}
+.search-only {
+	font-size: 9px;
+}
+.after-quick-links ul li a {
+	font-size: 13px;
+}
+.numberResults p {
+	margin: 5px 0 5px -5px;
+}
+#sort-by .jqTransformSelectWrapper ul a {
+	font-size: 12px;
+}
+#applicationFilter .jqTransformSelectWrapper,
+#applicationFilter .jqTransformSelectWrapper ul {
+	width: 168px !important;
+}
+.count-listings {
+	font-size: 13px;
+}
+/********************************************************************************/
